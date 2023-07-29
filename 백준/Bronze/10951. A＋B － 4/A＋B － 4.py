@@ -1,6 +1,9 @@
+import sys
+
 while True:
     try:
-        a, b = map(int, input().split())
-        print(a + b)
-    except:  # 반복문 종료조건이 없으므로 예외가 발생할 경우 반복문 종료
+        a, b = map(int, sys.stdin.readline().split())
+    except ValueError:  # 입력을 하지 않을 때 예외처리
         break
+    else:
+        print(a + b)
