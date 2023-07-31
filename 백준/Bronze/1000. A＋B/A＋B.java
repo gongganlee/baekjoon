@@ -1,9 +1,9 @@
-//Scanner를 사용하기 위해 Scanner클래스를 import
+//Scanner클래스를 import
 import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // System.in은 입력한 값을 byte 단위로 읽는 것
+        // System.in : byte 단위로 읽는 것
         Scanner sc = new Scanner(System.in);
         int a, b;
 
