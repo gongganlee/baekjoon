@@ -8,7 +8,7 @@ public class Main {
 
         for (int i = 1; i <= T; i++) {
             int A = sc.nextInt(), B = sc.nextInt();
-            System.out.printf("Case #%s: %s + %s = %s \n", i, A, B, A+B);
+            System.out.println("Case #" + i + ": " + A + " + " + B + " = " + (A+B));
         }
     }
 }
