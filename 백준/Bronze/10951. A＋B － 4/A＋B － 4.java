@@ -5,13 +5,9 @@ public class Main {
 
         Scanner sc = new Scanner(System.in);
 
-        while(true) {
-            try {
+        while(sc.hasNextInt()) {
                 int A = sc.nextInt(), B = sc.nextInt();
                 System.out.println(A + B);
-            } catch(Exception e){
-                break;
-            }
         }
         sc.close();
     }
