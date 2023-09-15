@@ -15,9 +15,9 @@ public class Main {
         sc.close();
         int count = 0; // 찾을 숫자의 개수
 
-        for (int j : num) {
-            if (j == v) {
-                count++;
+        for (int i=0; i<num.length; i++) {
+            if (num[i] == v) {
+                count ++;
             }
         }
 
