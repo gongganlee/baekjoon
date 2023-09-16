@@ -10,5 +10,6 @@ public class Main {
             int A = sc.nextInt(), B = sc.nextInt();
             System.out.println("Case #" + i + ": " + A + " + " + B + " = " + (A+B));
         }
+        sc.close();
     }
 }
