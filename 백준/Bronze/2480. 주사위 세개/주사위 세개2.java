@@ -22,5 +22,6 @@ public class Main {
                 max = z;
             System.out.println(max * 100);
         }
+        sc.close();
     }
 }
