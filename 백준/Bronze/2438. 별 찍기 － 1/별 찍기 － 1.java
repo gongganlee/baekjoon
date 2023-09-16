@@ -12,5 +12,6 @@ public class Main {
             }
             System.out.println(); //개행
         }
+        sc.close();
     }
 }
