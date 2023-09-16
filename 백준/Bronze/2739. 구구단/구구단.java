@@ -8,5 +8,6 @@ public class Main {
 
         for (int i = 1; i <= 9; i++)
             System.out.println(N + " * " + i  + " = " + N*i);
+        sc.close();
     }
 }
