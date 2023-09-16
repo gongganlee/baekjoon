@@ -13,6 +13,7 @@ public class Main {
         int minute = min % 60;
 
         System.out.printf("%s %s", hour, minute);
+        sc.close();
     }
 
 }
