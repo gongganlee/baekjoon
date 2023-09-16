@@ -10,6 +10,7 @@ public class Main {
             int A = sc.nextInt(), B = sc.nextInt();
             System.out.printf("Case #%s: %s \n", i, A+B);
         }
+        sc.close();
     }
 }
 
