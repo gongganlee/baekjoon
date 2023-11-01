@@ -13,7 +13,7 @@ public class Main {
             int J = scan.nextInt(); // 끝 바구니 번호
             int K = scan.nextInt(); // 공의 번호
 
-            for(int j = I-1; j<J; j++){ // 바구니 번호를 배열 인덱스로 변환
+            for(int j = I-1; j<J; j++){ // 바구니 번호를 배열 인덱스로 변환 
                 arr[j] = K;
             }
         }
