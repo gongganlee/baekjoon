@@ -11,6 +11,7 @@ public class Main {
         System.out.println(((a%c)+(b%c))%c);
         System.out.println((a*b)%c);
         System.out.println(((a%c)*(b%c))%c);
+        
         sc.close();
     }
 }
