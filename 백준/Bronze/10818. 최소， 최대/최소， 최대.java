@@ -8,7 +8,7 @@ public class Main {
         int N = sc.nextInt();
         int [] arr = new int[N]; //정수 N개로 이루어진 수열 A
 
-        for(int i=0; i<N; i++){ //N번만큼 반복하여 숫자를 받는다.
+        for(int i=0; i<N; i++){ //N번만큼 반복하여 숫자를 받는다. 
             arr[i] = sc.nextInt();
         }
         Arrays.sort(arr); //배열 오름차순 정렬
