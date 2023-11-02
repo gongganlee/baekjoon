@@ -7,7 +7,7 @@ public class Main {
 		
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		
-		String lastString = "??!";
+		String lastString = "??!"; 
 		
 		String s = br.readLine();
 		System.out.println(s + lastString);
