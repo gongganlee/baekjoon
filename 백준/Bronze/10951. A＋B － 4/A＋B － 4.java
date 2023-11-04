@@ -13,5 +13,5 @@ public class Main {
     }
 }
 
-// * hasNext() : 입력값 있을 때 true, 없을 때 false
-// * hasNextInt() : 정수를 입력받을 때 true, 정수가 아닐 때 false
+// * hasNext() : 입력값 있을 때 true, 없을 때 false 
+// * hasNextInt() : 정수를 입력받을 때 true, 정수가 아닐 때 false 
