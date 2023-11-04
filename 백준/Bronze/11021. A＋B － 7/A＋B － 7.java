@@ -14,5 +14,5 @@ public class Main {
     }
 }
 
-// println으로 자동개행되게하고 Case #x: 를 나눴다. 
+// println으로 자동개행되게하고 Case #x: 를 나눴다.  
 // * A+B값에 () 괄호 씌워주기!
