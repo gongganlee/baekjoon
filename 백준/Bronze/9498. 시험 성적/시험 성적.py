@@ -1,4 +1,4 @@
-score = int(input())
+score = int(input()) 
 if 100 >= score >= 90:
     print("A")
 elif score >= 80:
