@@ -15,4 +15,4 @@ else:
 # elif a,b,c 중 c만 다를 때
 # elif a,b,c 중 b만 다를 때
 # elif a,b,c 중 a만 다를 때
-# else 세 변수가 모두 다를 때
+# else 세 변수가 모두 다를 때 
