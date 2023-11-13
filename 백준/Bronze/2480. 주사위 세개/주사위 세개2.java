@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int x = sc.nextInt(), y = sc.nextInt(), z = sc.nextInt();
+        int x = sc.nextInt(), y = sc.nextInt(), z = sc.nextInt(); 
 
         if (x == y && y == z)
             System.out.println(10000 + x * 1000);
