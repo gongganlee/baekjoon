@@ -18,6 +18,6 @@ public class Main {
             int max = Math.max(Math.max(x, y), z);
             System.out.println(max * 100);
         }
-        sc.close();
+        sc.close(); 
     }
 }
