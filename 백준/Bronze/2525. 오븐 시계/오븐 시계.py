@@ -1,4 +1,4 @@
-hour, min = map(int, input().split())
+hour, min = map(int, input().split()) 
 time = int(input())
 
 min = min + time
