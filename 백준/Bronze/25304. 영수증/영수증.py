@@ -1,4 +1,4 @@
-X = int(input()) # 영수증에 적힌 총 금액
+X = int(input()) # 영수증에 적힌 총 금액  
 N = int(input()) # 영수증에 적힌 구매한 물건의 종류의 수
 
 total = 0
