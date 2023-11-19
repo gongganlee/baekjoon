@@ -13,7 +13,7 @@ public class Main {
 
             if(max < arr[i]) { // 입력받은 값이 max보다 클 경우
                 max = arr[i]; // max에 값 저장
-                index = i + 1; // 인덱스는 0부터 시작하므로 +1
+                index = i + 1; // 인덱스는 0부터 시작하므로 +1 
             }
         }
         sc.close();
